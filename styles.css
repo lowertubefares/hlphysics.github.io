@@ -77,15 +77,13 @@ html {
     background-color: white;
     
 }
-.text-paragraphli {
+.text-topic {
     text-align: justify;
     font-family: 'Lora', sans-serif;
-    font-size: 15px;
+    font-size: 17px;
     width: auto;
     background-color: white;
-    border-style: solid;
-    border-color: black;
-    border-width: 2px;
+    
 }
 .svg{
     max-width: 1500px;
