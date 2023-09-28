@@ -55,10 +55,22 @@ html {
     margin: 0% 5%;
     background-color: white;
 }
+.table-content-title{
+    text-align: justify;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 19px;
+    width: 30%;
+    margin: 4px 5% 0% 5%;
+    color: white;
+    
+}
 .text-div-index {
     width: 74%;
     background-color: white;
     float: left;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
 }
 .text-div-side {
     width: 24%;
