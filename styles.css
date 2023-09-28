@@ -179,10 +179,3 @@ li a{
     text-align: center;
 }
 
-.list-left{
-    float: left;
-    width: 20%
-}
-.list-right{
-    float: right;
-}
