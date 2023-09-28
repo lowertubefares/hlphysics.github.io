@@ -14,11 +14,13 @@ html{
     border-style: solid;
     border-width: 1px;
     font-family: "Baskerville Old Face"; font-size: 24px; font-style: italic; font-variant: normal; font-weight: 100; line-height: 24.2px;
-    width: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
     height: 80px;
+    width: 10%;
     font-size: 45px;
     text-align: center;
-    margin-left: 45%;
+    margin-left: 35%;
 }
 .aud {
     margin: 0% 20%;
