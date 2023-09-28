@@ -15,7 +15,7 @@ html {
     border-width: 1px;
     font-family: "Baskerville Old Face"; font-size: 24px; font-style: italic; font-variant: normal; font-weight: 100; line-height: 24.2px;
     width: 100%;
-    height: 60px;
+    height: 80px;
     font-size: 45px;
     text-align: center;
 }
@@ -57,6 +57,7 @@ html {
     background-color: white;
 }
 .table-content-title{
+    background-color: white;
     text-align: justify;
     font-family: 'Ubuntu', sans-serif;
     font-size: 19px;
@@ -66,16 +67,13 @@ html {
     
 }
 .text-div-index {
-    width: 74%;
+    width: 64%;
     background-color: white;
     float: left;
 }
 .text-div-side {
-    width: 24%;
+    width: 19%;
     background-color: white;
-    border-style: solid;
-    border-width: 2px;
-    border-color: black;
     float: right;
 }
 .text-paragraph {
@@ -151,12 +149,6 @@ li a{
     font-family: 'Ubuntu', sans-serif;
     font-size: 19px;
     width: auto;
-    margin: 4px 5% 0% 5%;
-    background-color: rgb(53, 83, 117);
-    color: white;
-    border-color: rgb(0, 0, 0);
-    border-style: solid;
-    border-width: 2px;
     text-align: center;
 }
 .text-intro-spa {
