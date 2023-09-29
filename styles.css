@@ -14,8 +14,7 @@ html{
     border-style: solid;
     border-width: 1px;
     font-family: "Baskerville Old Face"; font-size: 24px; font-style: italic; font-variant: normal; font-weight: 100; line-height: 24.2px;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding: 10% 0%;
     height: 80px;
     width: 10%;
     font-size: 45px;
@@ -40,24 +39,25 @@ html{
     text-align: justify;
     font-family: 'Ubuntu', sans-serif;
     font-size: 19px;
-    width: 80%;
-    margin-left: 10%;
-    margin-right: 10%;
+    width: 65%;
+    padding-top: 4%;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin-left: 8%;
+    margin-right: 4%;
     color: rgb(0, 0, 0);
 }
+
 .content-text{
     margin-left: 10%;
     margin-right: 10%;
 }
 
-.text-div-index {
-    width: 74%;
+.text-side {
+    width: 15%;
     background-color: white;
-    float: left;
-}
-.text-div-side {
-    width: 24%;
-    background-color: white;
+    text-align: justify;
+    font-family: 'Ubuntu', sans-serif;
     float: right;
 }
 .text-paragraph {
