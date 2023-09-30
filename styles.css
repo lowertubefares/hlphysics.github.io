@@ -59,6 +59,10 @@ html{
     text-align: justify;
     font-family: 'Ubuntu', sans-serif;
     float: right;
+    border-color: rgb(22, 12, 40);
+    border-style: solid;
+    border-width: 1px;
+    position: relative;
 }
 .text-paragraph {
     text-align: justify;
