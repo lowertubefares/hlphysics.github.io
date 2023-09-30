@@ -20,6 +20,8 @@ html{
     font-size: 45px;
     text-align: center;
     margin-left: 25%;
+    position: sticky;
+    top: 0;
 }
 .aud {
     margin: 0% 20%;
@@ -62,7 +64,8 @@ html{
     border-color: rgb(22, 12, 40);
     border-style: solid;
     border-width: 1px;
-    position: relative;
+    position: sticky;
+    top: 0;
 }
 .text-paragraph {
     text-align: justify;
