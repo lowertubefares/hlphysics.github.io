@@ -51,7 +51,11 @@ html{
     color: rgb(0, 0, 0);
 }
 
-.content-text{
+.content-text {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+p {
     margin-left: 10%;
     margin-right: 10%;
 }
