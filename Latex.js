@@ -1,7 +1,7 @@
 /*
 LaTeXMathML.js
 ==============
-
+ 
 This file, in this form, is due to Douglas Woodall, June 2006.
 It contains JavaScript functions to convert (most simple) LaTeX
 math notation to Presentation MathML.  It was obtained by
