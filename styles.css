@@ -43,7 +43,6 @@ html{
     width: 70%;
     padding-top: 2%;
     padding-left: 4%;
-    padding-right: 1%;
     padding-bottom: 2%;
     margin-left: 15%;
     color: rgb(0, 0, 0);
@@ -59,7 +58,7 @@ p {
 }
 
 .text-side {
-    width: 10%;
+    width: 12.5%;
     background-color: white;
     text-align: justify;
     font-family: 'Ubuntu', sans-serif;
@@ -102,6 +101,7 @@ p {
 
 .text-a{
     font-size: 14px;
+    width: 100%;
     margin-left: 3%;
     margin-bottom: 3%;
     color: rgb(0, 0, 0);
