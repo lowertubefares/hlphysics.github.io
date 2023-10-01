@@ -105,3 +105,13 @@ p {
     color: rgb(255, 255, 255);
     background-color: rgb(0, 0, 0);
 }
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-style: inset;
+    border-width: 2px;
+    border-color: black;
+  } 
