@@ -23,6 +23,7 @@ html{
     left: 50%;
     position: absolute;
     transform: translate(0, -50%);
+    top: 0;
 }
 
 .text-div {
@@ -39,6 +40,7 @@ html{
     padding-top: 2%;
     padding-left: 4%;
     padding-bottom: 2%;
+    width: 70%;
     left: 50%;
     color: rgb(0, 0, 0);
     transform: translate(-50%, 0%);
