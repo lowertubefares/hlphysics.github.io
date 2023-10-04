@@ -29,10 +29,9 @@ html{
 .text-div {
     width: auto;
     margin: 0% 5%;
-    background-color: white;
+    
 }
 .content{
-    background-color: white;
     text-align: justify;
     font-family: 'Ubuntu', sans-serif;
     font-size: 16px;
@@ -40,7 +39,7 @@ html{
     padding-top: 2%;
     padding-left: 4%;
     padding-bottom: 2%;
-    width: 70%;
+    width: 60%;
     left: 50%;
     color: rgb(0, 0, 0);
     transform: translate(-50%, 0%);
@@ -54,7 +53,7 @@ html{
 
 .text-side {
     width: 12.5%;
-    background-color: white;
+    
     text-align: justify;
     font-family: 'Ubuntu', sans-serif;
     float: left;
@@ -69,7 +68,7 @@ html{
     font-size: 15px;
     width: auto;
     margin: 2% 7% 5% 7%;
-    background-color: white;
+    
     
 }
 .text-topic {
@@ -77,7 +76,7 @@ html{
     font-family: 'Lora', sans-serif;
     font-size: 17px;
     width: auto;
-    background-color: white;
+    
     
 }
 .text-a{
