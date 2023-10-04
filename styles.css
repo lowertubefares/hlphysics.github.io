@@ -47,10 +47,7 @@ html{
     margin-left: 10%;
     margin-right: 10%;
 }
-p {
-    margin-left: 10%;
-    margin-right: 10%;
-}
+
 
 .text-side {
     width: 12.5%;
@@ -117,4 +114,6 @@ hr {
   } 
   li{
     margin-bottom: 1em;
+    margin-left: 10%;
+    margin-right: 10%;
   }
