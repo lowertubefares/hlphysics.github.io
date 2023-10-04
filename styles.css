@@ -18,12 +18,12 @@ html{
     font-weight: 100; 
     line-height: 24.2px;
     padding: 0% 4%;
-    height: 80px;
+    
     text-align: center;
     left: 50%;
     position: absolute;
-    transform: translate(0, -50%);
-    top: 0;
+    transform: translate(-50%, 0%);
+    
 }
 
 .text-div {
