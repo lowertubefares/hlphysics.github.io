@@ -5,6 +5,9 @@ html{
     width: 100%;
     
 }
+.question{
+    margin:5%;
+}
 .title-1 {
     background-color: rgb(252, 252, 252);
     color: rgb(0, 0, 0);
