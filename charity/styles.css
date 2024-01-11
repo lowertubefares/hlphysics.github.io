@@ -13,24 +13,29 @@
     left: 0;
     position: fixed;
     border-bottom: 0.5px solid grey;
-    height: 78px;
+    height: 10vh;
     width: 100%;
 }
 .flex{
     display:flex;
-    font-size: 22px;
+    font-size: 2.3vh;
 }
 .logo{
     margin-top: 21px;
     margin-left: 5px;
+    max-width: 180px;
 }
 .slogan{
     font-family: "Oswald", sans-serif;
-    font-weight: 300;
+    font-weight: 400;
     transform: translateX(-50%);
     left: 50%;
     position: absolute;
     top: 0;
+    font-size: 3.3vh;
+    letter-spacing: 0.1em;
+    width: 40vw;
+    max-width: 60vw;
 }
 .donate{
     background-color: rgb(0, 102, 255);
@@ -38,15 +43,12 @@
     left: 100%;
     position: absolute;
     transform: translateX(-100%);
-    width: 130px;
+    width: 30vw;
+    max-width: 130px;
 }
 .donate:hover{
     background-color: rgb(36, 47, 116);
-    height: 100%;
-    left: 100%;
-    position: absolute;
-    transform: translateX(-100%);
-    width: 130px;
+    
 }
 .donate-text{
     text-decoration: none;
@@ -69,4 +71,8 @@
 .maintext{
     margin-left: 20%;
     margin-right: 20%;
+}
+.image{
+    width: 84vw;
+    margin-bottom: 2vw;
 }
