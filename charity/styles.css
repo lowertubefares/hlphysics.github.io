@@ -47,8 +47,17 @@
     max-width: 130px;
 }
 .donate:hover{
-    background-color: rgb(36, 47, 116);
-    
+    background-color: rgb(36, 47, 116);   
+}
+.links{
+    background-color: rgb(255, 255, 255);
+    height: 100%;
+    position: absolute;
+    width: 30vw;
+    max-width: 130px;
+}
+.links:hover{
+    background-color: rgb(159, 159, 159);   
 }
 .donate-text{
     text-decoration: none;
