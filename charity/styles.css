@@ -49,9 +49,14 @@
 .donate:hover{
     background-color: rgb(36, 47, 116);   
 }
+.linkdiv{
+    transform: translateX(-50%);
+    left: 50%;
+}
 .links{
     background-color: rgb(255, 255, 255);
     height: 100%;
+    top:0;
     position: absolute;
     width: 30vw;
     margin-left: 12.5%;
