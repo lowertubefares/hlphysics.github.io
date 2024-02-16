@@ -40,9 +40,8 @@
 .donate{
     background-color: rgb(0, 102, 255);
     height: 100%;
-    left: 100%;
+    right: 0;
     position: absolute;
-    transform: translateX(-100%);
     width: 30vw;
     max-width: 130px;
 }
@@ -69,17 +68,9 @@
     margin-left: 33px;
     
 }
-.el{
-    left:20%;
-    transform: translateX(-50%);
-}
-.il{
-    left:50%;
-    transform: translateX(-50%);
-}
+
 .ol{
-    left:80%;
-    transform: translateX(-50%);
+    margin-left:20%;
 }
 
 .links:hover{
