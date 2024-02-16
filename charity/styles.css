@@ -51,7 +51,7 @@
 
 .links{
     top:0;
-    position: fixed;
+    position: absolute;
     background-color: rgb(255, 255, 255);
     height: 100%;
     width: 30vw;
@@ -61,6 +61,12 @@
 
 .ol{
     margin-left:20%;
+}
+.il{
+    margin-left: 40%;
+}
+ul{
+    margin-left: 60%;
 }
 .links-text{
     color: rgb(0, 0, 0);
