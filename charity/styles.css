@@ -71,13 +71,16 @@
     
 }
 .1l{
-    transform: translateX(-0%);
+    left:20%;
+    transform: translateX(-50%);
 }
 .2l{
+    left:50%;
     transform: translateX(-50%);
 }
 .3l{
-    transform: translateX(-80%);
+    left:80%;
+    transform: translateX(-50%);
 }
 
 .links:hover{
