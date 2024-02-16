@@ -69,15 +69,15 @@
     margin-left: 33px;
     
 }
-.1l{
+.el{
     left:20%;
     transform: translateX(-50%);
 }
-.2l{
+.il{
     left:50%;
     transform: translateX(-50%);
 }
-.3l{
+.ol{
     left:80%;
     transform: translateX(-50%);
 }
